@@ -5,3 +5,4 @@ Since, Algorithms is like a tool to do anything in computer science, I will impl
 
 Algorithms Implemented:
 1. Subset Generator
+2. Tree Representation and related search algorithms
